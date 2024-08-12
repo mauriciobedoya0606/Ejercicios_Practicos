@@ -1,0 +1,8 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(îÎÕ8ä Á¹”2J$e3b6d7c6-3c7a-44eb-ae7e-ce8959836c78
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(»ù–‹úÿÿÿÿ8æ Á¹”2J$bee6183d-2300-496c-9149-d11691e39430
+p
+java:S1874".Remove this use of "divide"; it is deprecated.(ı©ş48ô Á¹”2J$56afc2a6-6b86-4075-8cf8-a5439378e41d
+w
+java:S1874"5Remove this use of "ROUND_HALF_UP"; it is deprecated.(ı©ş48ô Á¹”2J$d0281d83-bfd4-4aed-aa6a-7de08f79b59b
+r	java:S106"+Replace this use of System.out by a logger.(‡´åşÿÿÿÿ8ö Á¹”2J$0ac4ba47-0ce3-4c31-ab1d-ec9373789cb8

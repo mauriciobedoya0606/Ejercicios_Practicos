@@ -1,0 +1,8 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‘¦¤¤þÿÿÿÿ8‚Ü‹½”2J$61093f90-1039-450d-8367-36f5b586b6ee
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡Ï›«ûÿÿÿÿ8…Ü‹½”2J$15f0765a-472e-41e0-b226-9f9d6b6315cb
+­
+java:S4276"eRefactor this code to use the more specialised Functional Interface 'BiPredicate<LocalDate, Integer>'(ïç¶Šüÿÿÿÿ8ŽÜ‹½”2J$ec7fe79d-6e35-4d29-ad6a-3ccf15364ec7
+r	java:S106'"+Replace this use of System.out by a logger.(ú¡ôÝøÿÿÿÿ8‘Ü‹½”2J$816f353b-e875-4d48-b8e9-4c173c1dec04
+O
+java:S1128"-Remove this unused import 'java.util.Locale'.(åð×±ûÿÿÿÿ8ÖÀ£½”2

@@ -1,0 +1,5 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡Ï›«ûÿÿÿÿ8…Ü‹½”2J$1c447e4b-fd94-461e-8ba6-c2eddacdfd42
+­
+java:S4276"eRefactor this code to use the more specialised Functional Interface 'BiPredicate<LocalDate, Integer>'(ïç¶Šüÿÿÿÿ8ŽÜ‹½”2J$a199e028-cf73-4e46-a1f3-59aa941a13c3
+r	java:S106&"+Replace this use of System.out by a logger.(ú¡ôÝøÿÿÿÿ8‘Ü‹½”2J$66da3a17-3643-4b08-a50e-2811c327dd7a

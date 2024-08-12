@@ -1,0 +1,9 @@
+
+k
+java:S1604"(Make this anonymous inner class a lambda(ÄìÔ8á¨Æ’2J$d9d4ba76-269a-47a4-9160-1acfc59aed4d
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¡Ïøùøÿÿÿÿ8á¨Æ’2J$3c8775c6-de44-4907-a937-ca0061210750
+™
+java:S4276"VRefactor this code to use the more specialised Functional Interface 'IntUnaryOperator'(ÄìÔ8ğ¨Æ’2J$2372f4fe-fb94-45ba-b5d0-ca7e3a6a66d8
+r	java:S106"+Replace this use of System.out by a logger.(…œúóøÿÿÿÿ8‘¿ÛÆ’2J$2cfb821e-4799-49af-9c33-7e8ac00b569f
+|
+java:S1128"9Remove this unused import 'java.util.function.Predicate'.(ïÍ–¶8óøÛÆ’2J$b297b41b-a942-4b4b-962f-e1d8b4944754

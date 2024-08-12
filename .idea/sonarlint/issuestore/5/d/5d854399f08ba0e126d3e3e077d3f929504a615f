@@ -1,0 +1,8 @@
+
+k
+java:S1604"(Make this anonymous inner class a lambda(ÄìÔ8á¨Æ’2J$b5687f02-ec3f-4017-a221-63f6db01d97d
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ø¨”®øÿÿÿÿ8á¨Æ’2J$1b3cdd3b-fb01-4102-9824-55da04f029e7
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¡Ïøùøÿÿÿÿ8á¨Æ’2J$79902fe3-051d-40c2-ae9d-9645395f1311
+™
+java:S4276"VRefactor this code to use the more specialised Functional Interface 'IntUnaryOperator'(ÄìÔ8ğ¨Æ’2J$8c6b16d0-135a-47bd-83e7-27f2b23478b1
+m	java:S106"+Replace this use of System.out by a logger.(ËÛ €8ğ¨Æ’2J$d8b5ae9d-c233-4d29-bf0e-095e1b218409
